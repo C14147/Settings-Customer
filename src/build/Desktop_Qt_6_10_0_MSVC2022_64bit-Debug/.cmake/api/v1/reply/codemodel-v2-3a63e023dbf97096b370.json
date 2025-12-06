@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Settings-Customer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Settings-Customer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Settings-Customer-Debug-941f85a3273cece73362.json",
+					"name" : "Settings-Customer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Settings-Customer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Settings-Customer_autogen-Debug-3a2ae26e13be7a34947f.json",
+					"name" : "Settings-Customer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Settings-Customer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Settings-Customer_autogen_timestamp_deps-Debug-a497cdf1dcc21003bf07.json",
+					"name" : "Settings-Customer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Settings-Customer/build/Desktop_Qt_6_10_0_MSVC2022_64bit-Debug",
+		"source" : "F:/Settings-Customer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
